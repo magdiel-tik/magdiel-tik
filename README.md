@@ -4,7 +4,6 @@
 <div>
 <h2 align="center"> 🦝 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦝 </h2>
   <div align="center">
-    ![Alt text](images/example.png)
 <img src="./profile1.jpeg" align="right" width="240" height="200">
   </div>
 <li>
